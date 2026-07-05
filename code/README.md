@@ -1,9 +1,8 @@
 # 🏀 Logiciel d'analyse de données NBA
 
-Projet réalisé dans le cadre du cours de Programmation Orientée Objet (POO) — Python,
-Master 1 IFOAD — Dr Delwende D. A. Sawadogo.
+Projet réalisé dans le cadre du cours de Programmation Orientée Objet (POO)/Python/Master 1 IFOAD — Dr Delwende D. A. Sawadogo.
 
-## Description
+## DescriptionS
 
 Logiciel permettant à un manager d'équipe NBA de gérer et d'analyser les données de son
 équipe : liste des équipes et des joueurs, résultats des matchs, informations et
